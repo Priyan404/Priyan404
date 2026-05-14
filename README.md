@@ -23,50 +23,6 @@ I am passionate about the intersection of:
 
 ---
 
-# Current Focus
-
-- Building **Editlyn**, an AI-powered creator-editor collaboration platform
-- Developing startup-oriented SaaS products
-- Creating modern web interfaces with smooth user experiences
-- Exploring automation systems and AI integrations
-- Improving backend architecture and scalable system design
-
----
-
-# Collaboration Interests
-
-I’m open to collaborating on:
-- Startup MVPs
-- Frontend-heavy applications
-- Open-source projects
-- SaaS platforms
-- AI-integrated tools
-- Creative developer communities
-
----
-
-# Currently Learning
-
-- Advanced React & Next.js
-- Backend architecture
-- Cloud deployment
-- System design fundamentals
-- Database optimization
-- AI workflow integrations
-- Performance engineering
-
----
-
-# Ask Me About
-
-- Frontend Development
-- UI/UX Design
-- Product Branding
-- Startup Ideas
-- MVP Development
-- Creative Web Experiences
-
----
 
 # Featured Projects
 
@@ -102,15 +58,6 @@ I’m open to collaborating on:
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Priyan404&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyan404&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa"/>
-
-</div>
 
 ---
 
