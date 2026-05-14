@@ -58,7 +58,14 @@ I am passionate about the intersection of:
 
 ---
 
+# 📊 GitHub Stats: 
+<br></br>
+<div align="center"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Subeshan707&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> 
 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Subeshan707&layout=compact&theme=tokyonight&hide_border=true" height="170"/> 
+  </div> 
+<br></br>
 ---
 
 # Contribution Activity
