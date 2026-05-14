@@ -1,21 +1,107 @@
-# 💫 About Me:
-# 💫 About Me<br><br>Hi 👋, I'm Priyan  <br>A frontend developer, startup builder, and creative digital product enthusiast from India 🇮🇳<br><br>I love building futuristic web experiences, startup-focused platforms, and high-impact digital products that solve real-world problems. My focus is not just writing code — I enjoy designing experiences, building brands, understanding user psychology, and creating products people genuinely want to use.<br><br>Currently, I’m deeply focused on:<br>- 🚀 Building startup-oriented products and SaaS platforms<br>- 🎬 Creating systems for creators, editors, and freelancers<br>- 🌐 Developing modern frontend experiences with smooth UI/UX<br>- ⚡ Exploring AI-powered workflows and automation<br>- 🎨 Designing minimal yet visually powerful interfaces<br>- 📈 Learning how technology, branding, and business connect together<br><br>---<br><br>## 🚀 Current Projects<br><br>### 🔹 Editlyn<br>An AI-powered platform connecting content creators with skilled video editors.<br><br>### 🔹 Village Support Platform<br>A next-generation digital platform focused on helping villages with:<br>- local services<br>- emergency support<br>- Tamil-first accessibility<br>- job listings<br>- community announcements<br><br>### 🔹 DebateX<br>A modern debate and discussion platform designed for the next generation of thinkers and creators.<br><br>### 🔹 Regifted<br>A platform connecting people who want to donate unused items with charities that need them.<br><br>---<br><br># 🧠 What I’m Interested In<br><br>- Frontend Engineering<br>- Startup Building<br>- Product Design<br>- SaaS Development<br>- AI Tools & Automation<br>- Creative Technology<br>- Digital Branding<br>- UI/UX Psychology<br>- Community Building<br>- Creator Economy Platforms<br><br>---<br><br># 🌱 Currently Learning<br><br>- Next.js<br>- Advanced React Architecture<br>- Firebase & Backend Systems<br>- Motion Design with GSAP<br>- API Integrations<br>- Full Stack Development<br>- Performance Optimization<br>- System Design Basics<br>- Startup Scaling Strategies<br><br>---<br><br># 🤝 Open To Collaborate On<br><br>- Startup Ideas<br>- SaaS Products<br>- Frontend Projects<br>- Creative Web Experiences<br>- AI-integrated Platforms<br>- Open Source Contributions<br>- Student-led Innovation Projects<br><br>---<br><br># 💬 Ask Me About<br><br>- Frontend Development<br>- Startup Execution<br>- Building MVPs Quickly<br>- Website Branding<br>- UI Inspiration<br>- Product Concepts<br>- Creative Development Ideas<br><br>---<br><br># ⚡ Fun Facts<br><br>- I love converting random ideas into real working products.<br>- I enjoy building projects faster than overthinking them.<br>- Most of my inspiration comes from observing problems around me.<br>- I’m highly interested in the intersection of design, technology, and business.<br>- I believe small ideas can become powerful startups with the right execution.<br><br>---<br><br># 🛠️ Tech Stack<br><br>### Frontend<br>- HTML5<br>- CSS3<br>- JavaScript<br>- React.js<br>- Next.js<br>- Tailwind CSS<br><br>### Backend & Database<br>- Firebase<br>- Node.js<br>- MongoDB<br>- PostgreSQL<br><br>### Tools & Platforms<br>- Git & GitHub<br>- Figma<br>- Vercel<br>- VS Code<br>- Adobe Illustrator<br>- Photoshop<br><br>### Currently Exploring<br>- AI Integrations<br>- Automation Systems<br>- Motion UI<br>- Scalable SaaS Architecture<br><br>---<br><br># 📫 Connect With Me<br><br>- Portfolio: https://priyanc.vercel.app/<br>- GitHub: https://github.com/priyan404<br>- LinkedIn: https://linkedin.com/in/cpriyan<br>- Dribbble: https://dribbble.com/c-priyan<br><br>---<br><br># 📊 Goals For 2026<br><br>- Launch multiple production-ready platforms<br>- Build a strong developer & startup portfolio<br>- Collaborate with creators and startups globally<br>- Improve backend and system architecture skills<br>- Build products that impact real communities<br>- Grow as both a developer and entrepreneur<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=120&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Priyan&fontSize=36&fontColor=58a6ff&animation=fadeIn" />
 
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Priyan ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cpriyan2009@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=priyan404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=priyan404&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyan404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=priyan404&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me:
+
+🔭 I'm currently working on **Web Development, AI-powered applications, and innovative student projects**  
+🤝 I'm looking to collaborate on **Open-source projects, web apps, and AI-driven solutions**  
+😊 I'm looking for help with **Full-stack development, API integrations, and deployment**  
+🌱 I'm currently learning **advanced database systems, cloud deployment, and system design**  
+💬 Ask me about **Web development, databases, and creative project ideas**  
+⚡ Fun fact: **I believe coffee + code = infinite creativity ☕💻**  
+
+![Profile views](https://komarev.com/ghpvc/?username=Priyan404&style=flat-square&color=58a6ff&label=Profile+views)
+
+---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+---
+
+## Tech Stack:
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## GitHub Stats:
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Priyan404&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyan404&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyan404&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## GitHub Trophies:
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Priyan404&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## Dev Quote:
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+
+</div>
+
+---
+
+## Contribution Graph:
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyan404&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer" />
+
+ *Star my repos if you find them useful — it means a lot!*
+
+</div>
